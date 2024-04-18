@@ -11,7 +11,7 @@ const App = () => {
      <Nav></Nav>
      <Section></Section>
      <Footer></Footer>
-     <Child username = "Suman" city = "Noida"></Child>
+     <Child username = "Suman" city = "Noida" country = "india"></Child>
     </div>
   )
 }
